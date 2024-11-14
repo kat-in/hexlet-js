@@ -8,5 +8,8 @@
   },
   "author": "Ekaterina Kriukova <newkatelife@gmail.com> (http://kryukovaphoto.ru/)",
   "license": "ISC",
-  "description": "First package"
+  "description": "First package",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
