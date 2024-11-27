@@ -1,5 +1,4 @@
-import _ from "lodash";
+import func from './src/index.js';
 
-const other = _.concat(1, 2, 3, "Поехали!");
 console.log("Привет, Хекслет!");
-console.log(other);
+console.log(func());

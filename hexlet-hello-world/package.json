@@ -2,7 +2,7 @@
   "name": "hexlet-hello-world",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,9 @@
   "description": "First package",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@eslint/create-config": "^1.0.0",
+    "eslint": "^8.57.0"
   }
 }
