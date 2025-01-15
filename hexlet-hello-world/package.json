@@ -1,19 +1,17 @@
 {
   "name": "hexlet-hello-world",
   "version": "1.0.0",
-  "type": "module",
   "main": "./src/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ekaterina Kriukova <newkatelife@gmail.com> (http://kryukovaphoto.ru/)",
+  "author": "",
   "license": "ISC",
-  "description": "First package",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  },
+  "description": "",
   "devDependencies": {
-    "@eslint/create-config": "^1.0.0",
-    "eslint": "^8.57.0"
+    "@eslint/js": "^9.15.0",
+    "eslint": "^9.15.0",
+    "globals": "^15.12.0"
   }
 }

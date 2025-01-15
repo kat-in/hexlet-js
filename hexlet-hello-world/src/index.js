@@ -1,8 +1,7 @@
-import _ from "lodash";
-
+import _ from 'lodash';
 
 const func = () => {
-  const other =_.concat("Ну", "Поехали!");
+  const other = _.concat('Ну', 'Поехали!');
   return other;
 };
 
